@@ -1,0 +1,275 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+        background-color:bisque ;
+
+}
+
+.container {
+    max-width: 1346px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+
+.header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 57px;
+}
+
+.img_logo {
+    width: 100px;
+    height: 35px;
+}
+
+li {
+    list-style: none;
+}
+
+.header_ul {
+    display: flex;
+    gap: 40px;
+    font-weight: bold;
+}
+
+.parts {
+    display: flex;
+    gap: 50px;
+}
+
+.first_button {
+    background: #CAA892;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border: 0;
+    color: rgb(255, 255, 255);
+    width: 97px;
+    height: 23px;
+}
+
+/* O'rta qismi */
+.container2 {
+    max-width: 1346px;
+    width: 100%;
+    margin: 100px  auto;
+    margin-top: 100px;
+}
+
+
+.matn {
+    width: 606px;
+}
+
+.mini_txt {
+    width: 191px;
+    height: 27px;
+    font-weight: bold;
+    color: #646464;
+}
+
+h1 {
+    color: #212121;
+    width: 549px;
+    height: 156px;
+    opacity: 1;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.mini_txt2 {
+    width: 603px;
+    height: 90px;
+    opacity: 1;
+}
+
+.contact {
+    width: 100px;
+    height: 30px;
+    opacity: 1;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: #37806B;
+    color: white;
+    border: none;
+}
+
+.first_pct>img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    opacity: 1;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+
+}
+
+.content_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+.container3 {
+    max-width: 1346px;
+    width: 100%;
+    margin: 100px auto;
+    text-align: center;
+
+}
+
+.we_do {
+    width: 130px;
+    height: 28px;
+    opacity: 1;
+
+}
+
+.paragraph_w {
+    font-weight: 600px;
+    font-size: 20px;
+    color: #646464;
+    margin-bottom: 60px;
+}
+
+.our_h2 {
+    width: 276px;
+    height: 78px;
+    opacity: 1;
+    padding-bottom: 50px;
+
+}
+
+.service {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 78px;
+}
+
+.first_info {
+    width: 425px;
+    height: 193px;
+    border-bottom-right-radius: 60px;
+    border-top-left-radius: 60px;
+    background-color: #FFFFFF;
+}
+
+.fcenter {
+    display: flex;
+    justify-content: space-around;
+}
+
+.first_info_text,
+.first_info_header {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.first_info_second {
+    width: 425px;
+    height: 193px;
+    border-bottom-right-radius: 60px;
+    border-top-left-radius: 60px;
+    background: #CAA892;
+    color: white;
+}
+
+.container4 {
+    max-width: 1346px;
+    width: 100%;
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+}
+
+.for_pct img.sofa {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    display: block;
+}
+
+.for_txt {
+    flex: 1;
+    text-align: left;
+}
+
+.about_us {
+    color: #646464;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.about_title {
+    font-size: 40px;
+    font-weight: 500;
+    color: #212121;
+    margin-bottom: 20px;
+}
+
+.about_desc {
+    font-size: 16px;
+    line-height: 26px;
+    color: #646464;
+    margin-bottom: 30px;
+}
+.container5 {
+    max-width: 1346px;
+    width: 100%;
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+
+}
+
+.container5 .for_txt {
+    flex: 1;
+    text-align: left;
+}
+
+.container5 .for_pct img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    display: block;
+}
+
+.about_us {
+    color: #646464;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.about_title {
+    font-size: 40px;
+    font-weight: 500;
+    color: #212121;
+    margin-bottom: 20px;
+}
+
+.about_desc {
+    font-size: 16px;
+    line-height: 26px;
+    color: #646464;
+    margin-bottom: 30px;
+}
+
